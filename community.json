@@ -1,5 +1,230 @@
 {
   "version": 2,
-  "presets": [],
-  "packs": []
+  "presets": [
+    {
+      "name": "TWIN TERRACE",
+      "author": "drayki",
+      "tags": [
+        "synth",
+        "void"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/twin%20terrace.halo",
+      "bytes": 3978,
+      "about": "Two soft steps of the same light.",
+      "made": "full synth",
+      "chain": [
+        0.120999999344349,
+        0.105999998748302,
+        0.041999999433756,
+        0.014000000432134,
+        0.764999985694885
+      ]
+    },
+    {
+      "name": "MONOLITH",
+      "author": "drayki",
+      "tags": [
+        "synth",
+        "dark"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/monolith.halo",
+      "bytes": 3974,
+      "about": "One block of low light.",
+      "made": "full synth",
+      "chain": [
+        0.12899999320507,
+        0.141000002622604,
+        0.136999994516373,
+        0.03999999910593,
+        0.377999991178513
+      ]
+    },
+    {
+      "name": "ANTECHAMBER",
+      "author": "drayki",
+      "tags": [
+        "synth",
+        "hard"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/antechamber.halo",
+      "bytes": 4001,
+      "about": "The room before the room.",
+      "made": "full synth",
+      "chain": [
+        0.041000001132488,
+        0.112000003457069,
+        0.483999997377396,
+        0.194000005722046,
+        0.157000005245209
+      ]
+    },
+    {
+      "name": "SALT BLOOM",
+      "author": "drayki",
+      "tags": [
+        "synth",
+        "dark"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/salt%20bloom.halo",
+      "bytes": 3995,
+      "about": "Slow crystals over a dark floor.",
+      "made": "full synth",
+      "chain": [
+        0.119000002741814,
+        0.126000002026558,
+        0.196999996900558,
+        0.001000000047497,
+        0.368999987840652
+      ]
+    },
+    {
+      "name": "FAINT SPIRE",
+      "author": "drayki",
+      "tags": [
+        "synth",
+        "void"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/faint%20spire.halo",
+      "bytes": 4007,
+      "about": "A thin line of shimmer in the void.",
+      "made": "full synth",
+      "chain": [
+        0.180999994277954,
+        0.210999995470047,
+        0.140000000596046,
+        0.046999998390675,
+        0.467999994754791
+      ]
+    },
+    {
+      "name": "CARBON",
+      "author": "drayki",
+      "tags": [
+        "synth",
+        "hard"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/carbon.halo",
+      "bytes": 3980,
+      "about": "A pressed, gritty lead.",
+      "made": "full synth",
+      "chain": [
+        0.104000002145767,
+        0.188999995589256,
+        0.263999998569489,
+        0.238000005483627,
+        0.171000003814697
+      ]
+    },
+    {
+      "name": "CASSINI",
+      "author": "drayki",
+      "tags": [
+        "synth",
+        "airy"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/cassini.halo",
+      "bytes": 3965,
+      "about": "A ringed drift, far out.",
+      "made": "full synth",
+      "chain": [
+        0.127000004053116,
+        0.179000005125999,
+        0.076999999582767,
+        0.064999997615814,
+        0.372000008821487
+      ]
+    },
+    {
+      "name": "THIN SLOPE",
+      "author": "drayki",
+      "tags": [
+        "synth",
+        "airy"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/thin%20slope.halo",
+      "bytes": 4001,
+      "about": "A pale pad that leans upward.",
+      "made": "full synth",
+      "chain": [
+        0.10700000077486,
+        0.208000004291534,
+        0.136000007390976,
+        0.137999996542931,
+        0.592999994754791
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "name": "FIRST LIGHT",
+      "author": "drayki",
+      "tags": [
+        "synth",
+        "starter"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/packs/FIRST%20LIGHT.zip",
+      "bytes": 7181,
+      "about": "Five synth sounds to open the shelves with. Nothing sampled - every sound is drawn from the instrument itself.",
+      "count": 5,
+      "chain": [
+        0.126,
+        0.189,
+        0.117,
+        0.108,
+        0.413
+      ],
+      "presets": [
+        {
+          "name": "BLIND BASIN",
+          "chain": [
+            0.202999994158745,
+            0.093999996781349,
+            0.026000000536442,
+            0.120999999344349,
+            0.345999985933304
+          ]
+        },
+        {
+          "name": "FAINT ANTENNA",
+          "chain": [
+            0.153999999165535,
+            0.076999999582767,
+            0.0489999987185,
+            0.045000001788139,
+            0.686999976634979
+          ]
+        },
+        {
+          "name": "GYPSUM",
+          "chain": [
+            0.076999999582767,
+            0.398999989032745,
+            0.212999999523163,
+            0.153999999165535,
+            0.225999996066093
+          ]
+        },
+        {
+          "name": "SUBLIMATE",
+          "chain": [
+            0.082000002264977,
+            0.165000006556511,
+            0.245000004768372,
+            0.070000000298023,
+            0.388000011444092
+          ]
+        },
+        {
+          "name": "DEEP CANOPY",
+          "chain": [
+            0.112000003457069,
+            0.209999993443489,
+            0.052999999374151,
+            0.148000001907349,
+            0.419999986886978
+          ]
+        }
+      ]
+    }
+  ]
 }
