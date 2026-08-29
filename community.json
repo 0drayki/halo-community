@@ -18,7 +18,9 @@
         0.041999999433756,
         0.014000000432134,
         0.764999985694885
-      ]
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/presets/twin%20terrace.flac",
+      "downloads": 0
     },
     {
       "name": "MONOLITH",
@@ -37,7 +39,9 @@
         0.136999994516373,
         0.03999999910593,
         0.377999991178513
-      ]
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/presets/monolith.flac",
+      "downloads": 0
     },
     {
       "name": "ANTECHAMBER",
@@ -56,7 +60,9 @@
         0.483999997377396,
         0.194000005722046,
         0.157000005245209
-      ]
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/presets/antechamber.flac",
+      "downloads": 0
     },
     {
       "name": "SALT BLOOM",
@@ -75,7 +81,9 @@
         0.196999996900558,
         0.001000000047497,
         0.368999987840652
-      ]
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/presets/salt%20bloom.flac",
+      "downloads": 0
     },
     {
       "name": "FAINT SPIRE",
@@ -94,7 +102,9 @@
         0.140000000596046,
         0.046999998390675,
         0.467999994754791
-      ]
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/presets/faint%20spire.flac",
+      "downloads": 0
     },
     {
       "name": "CARBON",
@@ -113,7 +123,9 @@
         0.263999998569489,
         0.238000005483627,
         0.171000003814697
-      ]
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/presets/carbon.flac",
+      "downloads": 0
     },
     {
       "name": "CASSINI",
@@ -132,7 +144,9 @@
         0.076999999582767,
         0.064999997615814,
         0.372000008821487
-      ]
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/presets/cassini.flac",
+      "downloads": 0
     },
     {
       "name": "THIN SLOPE",
@@ -151,10 +165,89 @@
         0.136000007390976,
         0.137999996542931,
         0.592999994754791
-      ]
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/presets/thin%20slope.flac",
+      "downloads": 0
     }
   ],
   "packs": [
+    {
+      "name": "IRON VEIL",
+      "author": "drayki",
+      "tags": [
+        "synth"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/packs/IRON%20VEIL.zip",
+      "bytes": 7213,
+      "about": "The darker five: walls, wakes and one tidal room.",
+      "count": 5,
+      "chain": [
+        0.126,
+        0.149,
+        0.164,
+        0.136,
+        0.455
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/IRON%20VEIL/tidal%20room.flac",
+      "downloads": 0,
+      "presets": [
+        {
+          "name": "TIDAL ROOM",
+          "chain": [
+            0.108999997377396,
+            0.122000001370907,
+            0.133000001311302,
+            0.151999995112419,
+            0.5
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/IRON%20VEIL/tidal%20room.flac"
+        },
+        {
+          "name": "UNLIT WAKE",
+          "chain": [
+            0.109999999403954,
+            0.028999999165535,
+            0.135000005364418,
+            0.059000000357628,
+            0.330000013113022
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/IRON%20VEIL/unlit%20wake.flac"
+        },
+        {
+          "name": "UMBRAL TRACE",
+          "chain": [
+            0.204999998211861,
+            0.207000002264977,
+            0.101000003516674,
+            0.123999997973442,
+            0.583000004291534
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/IRON%20VEIL/umbral%20trace.flac"
+        },
+        {
+          "name": "MINOR PLAIN",
+          "chain": [
+            0.041999999433756,
+            0.354000002145767,
+            0.34799998998642,
+            0.199000000953674,
+            0.245000004768372
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/IRON%20VEIL/minor%20plain.flac"
+        },
+        {
+          "name": "LIMINAL SPIRE",
+          "chain": [
+            0.163000002503395,
+            0.034000001847744,
+            0.104000002145767,
+            0.146999999880791,
+            0.616999983787537
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/IRON%20VEIL/liminal%20spire.flac"
+        }
+      ]
+    },
     {
       "name": "FIRST LIGHT",
       "author": "drayki",
@@ -173,6 +266,8 @@
         0.108,
         0.413
       ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/FIRST%20LIGHT/blind%20basin.flac",
+      "downloads": 0,
       "presets": [
         {
           "name": "BLIND BASIN",
@@ -182,7 +277,8 @@
             0.026000000536442,
             0.120999999344349,
             0.345999985933304
-          ]
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/FIRST%20LIGHT/blind%20basin.flac"
         },
         {
           "name": "FAINT ANTENNA",
@@ -192,7 +288,8 @@
             0.0489999987185,
             0.045000001788139,
             0.686999976634979
-          ]
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/FIRST%20LIGHT/faint%20antenna.flac"
         },
         {
           "name": "GYPSUM",
@@ -202,7 +299,8 @@
             0.212999999523163,
             0.153999999165535,
             0.225999996066093
-          ]
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/FIRST%20LIGHT/gypsum.flac"
         },
         {
           "name": "SUBLIMATE",
@@ -212,7 +310,8 @@
             0.245000004768372,
             0.070000000298023,
             0.388000011444092
-          ]
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/FIRST%20LIGHT/sublimate.flac"
         },
         {
           "name": "DEEP CANOPY",
@@ -222,7 +321,85 @@
             0.052999999374151,
             0.148000001907349,
             0.419999986886978
-          ]
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/FIRST%20LIGHT/deep%20canopy.flac"
+        }
+      ]
+    },
+    {
+      "name": "STILL AIR",
+      "author": "drayki",
+      "tags": [
+        "synth"
+      ],
+      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/packs/STILL%20AIR.zip",
+      "bytes": 7175,
+      "about": "Airs and thresholds - five rooms with the windows open.",
+      "count": 5,
+      "chain": [
+        0.128,
+        0.168,
+        0.169,
+        0.103,
+        0.51
+      ],
+      "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/STILL%20AIR/pale%20column.flac",
+      "downloads": 0,
+      "presets": [
+        {
+          "name": "PALE COLUMN",
+          "chain": [
+            0.151999995112419,
+            0.065999999642372,
+            0.119000002741814,
+            0.052000001072884,
+            0.683000028133392
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/STILL%20AIR/pale%20column.flac"
+        },
+        {
+          "name": "ABSENT BLOOM",
+          "chain": [
+            0.218999996781349,
+            0.196999996900558,
+            0.052999999374151,
+            0.115000002086163,
+            0.592999994754791
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/STILL%20AIR/absent%20bloom.flac"
+        },
+        {
+          "name": "SUBLIMATE",
+          "chain": [
+            0.063000001013279,
+            0.437000006437302,
+            0.448000013828278,
+            0.238000005483627,
+            0.291999995708466
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/STILL%20AIR/sublimate.flac"
+        },
+        {
+          "name": "ALBEDO",
+          "chain": [
+            0.101999998092651,
+            0.093000002205372,
+            0.194000005722046,
+            0.093999996781349,
+            0.395000010728836
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/STILL%20AIR/albedo.flac"
+        },
+        {
+          "name": "SPARSE THRESHOLD",
+          "chain": [
+            0.104000002145767,
+            0.046000000089407,
+            0.032000001519918,
+            0.014000000432134,
+            0.584999978542328
+          ],
+          "preview": "https://raw.githubusercontent.com/0drayki/halo-community/main/previews/packs/STILL%20AIR/sparse%20threshold.flac"
         }
       ]
     }
