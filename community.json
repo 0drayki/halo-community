@@ -1,25 +1,5 @@
 {
   "version": 2,
-  "presets": [
-    {
-      "name": "LACUNA",
-      "author": "drayki",
-      "tags": [
-        "key",
-        "void"
-      ],
-      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/lacuna.halo",
-      "bytes": 3715,
-      "about": "A slow gap in the ice.",
-      "made": "one-shot + one-shot",
-      "chain": [
-        0.064,
-        0,
-        0.213,
-        0.067,
-        0.168
-      ]
-    }
-  ],
+  "presets": [],
   "packs": []
 }
