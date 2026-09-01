@@ -2,24 +2,6 @@
   "version": 2,
   "presets": [
     {
-      "name": "BENCH CHECK",
-      "author": "drayki",
-      "tags": [
-        "test"
-      ],
-      "url": "https://raw.githubusercontent.com/0drayki/halo-community/main/presets/bench%20check.halo",
-      "bytes": 3715,
-      "about": "A live check of the publishing path.",
-      "made": "",
-      "chain": [
-        0.2,
-        0.1,
-        0,
-        0,
-        0.5
-      ]
-    },
-    {
       "name": "TWIN TERRACE",
       "author": "drayki",
       "tags": [
