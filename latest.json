@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "url": "https://drayki.com",
-  "notes": ""
+  "notes": "Root notes: forty factory sounds were reading an octave or two too low, so they played back that much too high. Fixed, and your own imports get the same check."
 }
