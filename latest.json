@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.5.0",
   "url": "https://drayki.com",
-  "notes": "Root notes: forty factory sounds were reading an octave or two too low, so they played back that much too high. Fixed, and your own imports get the same check."
+  "notes": "Windows looks like the Mac now, with the typeface embedded. Thirty-two voices, and a stolen voice fades instead of clicking. HALO, GRAIN and SPACE follow their macro smoothly. The level meters and every row sit on the pixel grid. Windows: a proper uninstaller, and the library replaced whole on update. Four ASTRAL presets that opened empty are fixed or gone."
 }
