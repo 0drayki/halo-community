@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
-  "url": "https://drayki.com",
-  "notes": "Windows looks like the Mac now, with the typeface embedded. Thirty-two voices, and a stolen voice fades instead of clicking. HALO, GRAIN and SPACE follow their macro smoothly. The level meters and every row sit on the pixel grid. Windows: a proper uninstaller, and the library replaced whole on update. Four ASTRAL presets that opened empty are fixed or gone."
+ "version": "1.0.0",
+ "url": "https://drayki.com/pages/halo-download",
+ "notes": "Signed and notarised by Apple: the installer opens with a double click. Two zips instead of one, so a Mac no longer downloads a Windows build. Pads play at the octave they were recorded at. GHOST shifts by phase vocoder and the octave up no longer crackles. Star a preset and it joins the favourites shelf. The library opens full-window, with tag families, an ALL shelf and the last fifty SUMMON invocations. SUMMON never draws one-shot. Nine presets join ASTRAL."
 }
