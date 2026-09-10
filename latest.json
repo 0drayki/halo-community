@@ -1,5 +1,5 @@
 {
  "version": "1.0.2",
  "url": "https://drayki.com/pages/halo-download",
- "notes": "The pitch wheel now bends every note, two semitones either way, in every voice mode — and a note played with the wheel already pushed starts bent.\nThe mod wheel adds a vibrato, a third of a semitone at full travel, on top of whatever you route it to in MOD. MONO and ARP pass the wheels, the sustain pedal and aftertouch through.\nWindows: the zip carries its file names in UTF-8, so the sounds named with a ² or ³ extract correctly and CYBERPUNK, LIMINAL PLAIN, OUTER HORIZON and ORANGE load as they should.\nFrom 1.0.1: the wave and sample pickers open in place when the window is enlarged."
+ "notes": "• Pitch wheel: fixed, ±2 semitones, all voice modes\n• Mod wheel: vibrato by default, plus MOD routing\n• MONO / ARP: wheels, sustain pedal, aftertouch pass through\n• Windows zip: ² / ³ sound names extract correctly, 4 factory presets fixed\n• 1.0.1: pickers open in place at any window size"
 }
