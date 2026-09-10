@@ -1,5 +1,5 @@
 {
- "version": "1.0.0",
+ "version": "1.0.2",
  "url": "https://drayki.com/pages/halo-download",
- "notes": "Signed and notarised by Apple: the installer opens with a double click. Two zips instead of one, so a Mac no longer downloads a Windows build. Pads play at the octave they were recorded at. GHOST shifts by phase vocoder and the octave up no longer crackles. Star a preset and it joins the favourites shelf. The library opens full-window, with tag families, an ALL shelf and the last fifty SUMMON invocations. SUMMON never draws one-shot. Nine presets join ASTRAL."
+ "notes": "1.0.2 — The pitch wheel now bends every note, two semitones either way, in every voice mode, and the mod wheel adds a vibrato on top of whatever you route it to; MONO and ARP pass the wheels, the sustain pedal and aftertouch through. Windows: the zip carries its file names in UTF-8, so the sounds named with a ² or ³ extract correctly and CYBERPUNK, LIMINAL PLAIN, OUTER HORIZON and ORANGE load as they should. Also from 1.0.1: the wave and sample pickers open in place when the window is enlarged."
 }
