@@ -1,5 +1,5 @@
 {
- "version": "1.1.1",
+ "version": "1.1.2",
  "url": "https://drayki.com/pages/halo-download",
- "notes": "1.1.1\nThe themes panel is two columns: every look on the left, the controls that make one on the right.\nSeven new factory sounds — 999 in the library.\nA modulation can push from where the knob sits instead of swinging around it: the new from knob toggle on each LFO.\nThe A/B bar is easier to read, and a modulation ring is never thicker than the slider it sits on.\nThe space bar reaches your DAW's transport again on macOS.\nThe manual names the right files."
+ "notes": "1.1.2\nThe computer keyboard goes back to your DAW after you pick a preset — Logic's Musical Typing, and every other host's, keeps working."
 }
