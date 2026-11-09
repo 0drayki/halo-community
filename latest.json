@@ -1,5 +1,5 @@
 {
- "version": "1.1.5",
+ "version": "1.2.0",
  "url": "https://drayki.com/pages/halo-download",
- "notes": "HALO now runs on macOS 10.15 Catalina (Intel Macs). On Mac, the pointer changes shape again over the interface, and hover info no longer freezes after a click."
+ "notes": "1.2.0: CARVE clears the mix between A and B; new controls on every effect (HALO SCALE, GRAIN SYNC and REVERSE, RUIN BAND, GHOST PING-PONG, TONE and DUCK, SPACE INFINITE and MOD); NOCTURNE, a new bank of 26 keys; 1000 one-shots; spectral presets land on the grid; preset changes without a click; GHOST's echoes on time"
 }
